@@ -12,5 +12,5 @@ What I learned:
 What I would do if I return to this project:
 
 - Learn Next.js and Stripe.
-- Master Sanity.IO properly.
+- Master Sanity.io properly.
 - More practice in backend development.
