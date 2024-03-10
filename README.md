@@ -1,4 +1,4 @@
-# Hotel-Management 
+# hotel-management 
 Unfinished hotel website as a personal practice project. 
 
 Used: React, Sanity.io
